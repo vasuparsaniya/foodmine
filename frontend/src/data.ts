@@ -14,11 +14,11 @@ export const sample_foods: Food[]=[
   },
   {
     id:'2',
-    name: 'Meatball',
+    name: 'Manchurian',
     price: 20,
     cookTime: '20-30',
     favorite: true,
-    origins: ['persia', 'middle east', 'china'],
+    origins: ['india'],
     stars: 4.7,
     imageUrl: 'assets/food-2.jpg',
     tags: ['SlowFood', 'Lunch'],
@@ -47,7 +47,7 @@ export const sample_foods: Food[]=[
   },
   {
     id:'5',
-    name: 'Chicken Soup',
+    name: 'Veg Soup',
     price: 11,
     cookTime: '40-50',
     favorite: false,
